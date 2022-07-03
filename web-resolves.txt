@@ -5,7 +5,9 @@ Resolusi JULI
 - Mempelajari dan menguasai JavaScript
 
 Resolusi AGUSTUS
--
+- Mempelajari framework-framework CSS seperti TailWind, Sass, dan lain-lain
+- Mempelajari Framework JavaScript seperti ReactJS, VueJS, dan lain-lain
+- Mempelajari API
 
 Resolusi SEPTEMBER
 -
