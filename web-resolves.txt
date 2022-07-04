@@ -1,6 +1,5 @@
 Resolusi JULI
 - Menguasai kembali HTML dan CSS
-- Menguasai kembali menggunakan Bootstrap
 - Mempelajari dan menguasai dalam menggunakan Git dan GitHub
 - Mempelajari dan menguasai JavaScript
 - Mencoba membuat project web sederhana dengan pengetahuan-pengetahuan yang di dapat (lakukan di akhir bulan)
@@ -9,7 +8,6 @@ Resolusi AGUSTUS
 - Mempelajari framework-framework CSS seperti TailWind, Sass, dan lain-lain
 - Mencoba membuat project web sederhana dengan pengetahuan-pengetahuan yang di dapat (lakukan di akhir bulan)
 - Mempelajari Framework JavaScript seperti ReactJS, VueJS, dan lain-lain
-- Mempelajari API
 
 Resolusi SEPTEMBER
--
+- Mempelajari API
