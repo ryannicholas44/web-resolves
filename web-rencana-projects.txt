@@ -1,0 +1,7 @@
+RENCANA PROJECT WEBSITE BULANAN
+
+1. JULI = Project website galeri
+2. AGUSTUS = Project website instagram clone
+3. SEPTEMBER = Project website e-commerce
+4. OKTOBER = Project website sejarah
+5. NOVEMBER = Project website portfolio
