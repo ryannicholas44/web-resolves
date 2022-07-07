@@ -1,10 +1,15 @@
 RENCANA PROJECT WEBSITE BULANAN
 
-1. JULI = Project website makanan
-2. AGUSTUS = Project website instagram clone
-3. SEPTEMBER = Project website e-commerce
-4. OKTOBER = Project website film
-5. NOVEMBER = Project website wiki/fandom
-4. OKTOBER = Project website sejarah
+1. JULI
+- Personal Blog
+- Instagram Clone
+2. AGUSTUS
+- Movie Series Clone Website (Such as Disney+ Hotstar, Netflix, etc)
+- Manga Recommendations Website
+3. SEPTEMBER
+- Parents Profile Website (Private)
+- History Website
+- News Website
+4. OKTOBER
 5. NOVEMBER = Project website portfolio
 6. DESEMBER = Project website wiki/fandom
